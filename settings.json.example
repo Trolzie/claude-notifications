@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "phoneNumber": "+1234567890",
+  "provider": "textbelt",
+  "textbeltKey": "textbelt"
+}
